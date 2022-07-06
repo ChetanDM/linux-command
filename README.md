@@ -15,4 +15,24 @@ README.md
 ~/linux-command-2$ pwd
 /home/runner/linux-command-2
 ~/linux-command-2$ 
+~/linux-command-2$ ls
+README.md
+~/linux-command-2$ pwd
+/home/runner/linux-command-2
+~/linux-command-2$ mkdir -p groupd/chetan
+~/linux-command-2$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
 
+nothing to commit, working tree clean
+~/linux-command-2$ touch groupd/chetan/readme.txt
+~/linux-command-2$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+    groupd/
+
+nothing added to commit but untracked files present (use "git add" to track)
