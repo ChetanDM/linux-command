@@ -1,5 +1,5 @@
 # linux-command
-~/linux-command-2$ date
+inux-command-2$ date
 Wed Jul  6 13:50:47 UTC 2022
 ~/linux-command-2$ cal
      July 2022        
